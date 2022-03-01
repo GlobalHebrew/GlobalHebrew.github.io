@@ -1,0 +1,83 @@
+body {
+    color: black;
+    background: #f3e2e2;
+    margin: auto;
+    direction: rtl;
+}
+
+.UpperContent {
+    background-color: yellow;
+    margin: auto;
+    width: 98%;
+    direction: rtl;
+    /* border: 2px solid red; */
+    margin: auto;
+    padding: 10px;
+
+}
+
+
+.BodyContent {
+    background-color: white;
+    margin: auto;
+    width: 98%;
+    direction: rtl;
+    /* border: 2px solid rgb(17, 0, 255); */
+    margin: auto;
+    padding: 10px;
+    direction: rtl;
+}
+
+.BodyContent {
+    background-color: white;
+    margin: auto;
+    width: 98%;
+    direction: rtl;
+    /* border: 2px solid rgb(17, 0, 255); */
+    margin: auto;
+    padding: 10px;
+
+}
+
+.BodyUp {
+    /* border: 2px solid rgb(119, 0, 255); */
+    direction: rtl;
+    margin: auto;
+    padding: 0px;
+    border-bottom: 2px solid rgb(119, 0, 255);
+    max-width: 650px;
+}
+
+.BodyRight {
+    min-height: 100px;
+    float: right;
+    /* border: 2px solid rgb(119, 0, 255); */
+    direction: rtl;
+    min-width: 300px;max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+
+.BodyLeft {
+    min-height: 100px;
+    border-right: 2px solid blue;
+    min-width: 300px; max-width: 600px;
+    direction: rtl;
+    float: right;
+    margin: auto;
+    background: white;
+    padding: 10px;
+
+}
+
+.FooterContent {
+    clear: both;
+    /* border: 2px solid rgb(208, 255, 0); */
+    direction: rtl;
+    width: 98%;
+    min-height: 30px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}

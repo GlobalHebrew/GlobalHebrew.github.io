@@ -3,39 +3,23 @@ body {
     background: #f3e2e2;
     margin: auto;
     direction: rtl;
+    background-color: white;
 }
 
 .UpperContent {
     background-color: yellow;
     margin: auto;
     width: 98%;
-    direction: rtl;
-    /* border: 2px solid red; */
     margin: auto;
-
 }
 
 
 .BodyContent {
-    background-color: white;
-    margin: auto;
     width: 98%;
-    direction: rtl;
-    /* border: 2px solid rgb(17, 0, 255); */
     margin: auto;
     padding: 10px;
     direction: rtl;
-}
-
-.BodyContent {
-    background-color: white;
-    margin: auto;
-    width: 98%;
-    direction: rtl;
-    /* border: 2px solid rgb(17, 0, 255); */
-    margin: auto;
-    padding: 10px;
-
+    /*border:1px solid red;*/
 }
 
 .BodyUp {
@@ -81,3 +65,35 @@ body {
     padding: 10px;
     text-align: center;
 }
+
+
+
+
+
+
+/* CSS for sessionize */
+/*
+.sz-session__questions{text-align: right; direction: rtl;}
+.sz-sessions--list{text-align: left; direction: ltr;}
+#sessionize.sessionize-wrapper {
+    font-family: auto;
+}
+#sessionize.sessionize-wrapper .sz-session.sz-session--full .sz-session__questions dt, #sessionize.sessionize-wrapper .sz-session.sz-session--full .sz-session__questions dd {
+    display: block;
+}
+#sz-modal-container {
+    direction: ltr;
+}
+#sessionize.sessionize-wrapper .sz-session.sz-session--full .sz-session__questions {
+    font-size: inherit;
+}
+dl > dd:first-of-type {
+    font-size: x-large;
+}
+.sz-sessions--list > li:nth-of-type(odd) {
+    background: #bdf4f2;
+}
+.sz-sessions--list > li:nth-of-type(even) {
+    background: #cef8a3;
+}
+*/
